@@ -1,0 +1,20 @@
+#container {
+    width: 500px;
+    height: 500px;
+    border: black solid 1px;
+    display: grid;
+    justify-content: center;
+    margin: auto;
+    grid-template-columns: repeat(var(--numCols), 1fr);
+    grid-template-rows: repeat(var(--numRows), 1fr);
+}
+
+.cell {
+    border: 1px solid black;
+    display: flex;
+}
+  
+:root {
+    --numCols: 1;
+    --numRows: 1;
+}

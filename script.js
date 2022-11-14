@@ -33,3 +33,6 @@ container.addEventListener("mouseover", function (e) {
 });
 
 makeGrid(16);
+
+//make so can only draw when pressing down
+//make clear

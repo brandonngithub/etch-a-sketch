@@ -1,6 +1,16 @@
 const container = document.querySelector('#container');
 var cell;
-var target; 
+var target;
+var holdingMouseButton = false;
+
+//makes holdingMouseButton true if so
+document.body.onmousedown = function() {
+    holdingMouseButton = true;
+}
+
+document.body.onmouseup = function() {
+    holdingMouseButton = false;
+}
 
 //makes columns
 function makeCell(num) {
@@ -25,14 +35,12 @@ function changeColor(target) {
     target.style.backgroundColor = 'black';
 }
 
-container.addEventListener("mouseover", function (e) {
+container.addEventListener("mouseover", function(e) {
     target = e.target;
-    if (target.matches("div.cell")) {
+    if (target.matches("div.cell") && holdingMouseButton==true) {
         changeColor(target);
     }
 });
 
-makeGrid(16);
 
-//make so can only draw when pressing down
-//make clear
+makeGrid(16);

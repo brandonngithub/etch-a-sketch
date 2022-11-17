@@ -22,7 +22,7 @@ function makeCell(num) {
     }
 }
 
-//ex. makeGrid(16) will loop 16 times making 16 columns per row
+//makes a num*num grid
 function makeGrid(num) {
     container.style.setProperty('--numRows', num); 
     container.style.setProperty('--numCols', num); 

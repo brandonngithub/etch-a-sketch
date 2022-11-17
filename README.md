@@ -1,6 +1,6 @@
 ## ~ etch-a-sketch ~
 <p>The fourth project from TheOdinProject (Foundations Course).</p>
-<p>A 16x16 sketchpad made with HTML, CSS, and JavaScript. Users are able to paint on the sketchpad with either of 10 colors (default being black). Users are also able to reset the sketchpad via the 'Clear' button. In doing this project I was able to expand my knowledge of JavaScript, in particular learning how to better manipulate the DOM. The biggest hurdle I faced was shading the grid when the user clicks and drags. This was because clicking and dragging is not a detectable event. Instead you must create a flag that turned true when the user pressed down and false when the user's mouse button goes up.</p>
+<p>A 16x16 sketchpad made with HTML, CSS, and JavaScript. Users are able to paint on the sketchpad with either of 10 colors (default being black). Users are also able to reset the sketchpad via the 'Clear' button. In doing this project I was able to expand my knowledge of JavaScript, in particular learning how to better manipulate the DOM. The biggest hurdle I faced was shading the grid when the user clicks and drags. This was because clicking and dragging is not a detectable event. Instead you must create a flag that turns true when the user presses down and false when the user's mouse button goes up.</p>
 
 ## Tech Used:
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)

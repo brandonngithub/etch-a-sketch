@@ -7,7 +7,7 @@
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - UNIX terminal
-- Git and GitHub
+- Git
 
 ## Screenshots:
 <img width="1440" alt="1" src="https://user-images.githubusercontent.com/91623674/202333065-b36fd7ae-d9d8-49c0-97b4-ace8aa956971.png">

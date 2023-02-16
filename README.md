@@ -1,5 +1,5 @@
 ## ~ etch-a-sketch ~
-<p>The fourth project from TheOdinProject (Foundations Course).</p>
+[LIVE DEMO](https://brandonngithub.github.io/etch-a-sketch/)
 <p>Users are able to paint on the sketchpad with either of 10 colors (default being black). Users are also able to reset the sketchpad via the 'Clear' button. In doing this project I was able to expand my knowledge of JavaScript, in particular learning how to better manipulate the DOM. The biggest hurdle I faced was shading the grid when the user clicks and drags. This was because clicking and dragging is not a detectable event. Instead you must create a flag that turns true when the user presses down and false when the user's mouse button goes up.</p>
 
 ## Tech Used:
@@ -8,10 +8,6 @@
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - UNIX terminal
 - Git and GitHub
-
-## Links:
-- [LIVE DEMO](https://brandonngithub.github.io/etch-a-sketch/)
-- [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)
 
 ## Screenshots:
 <img width="1440" alt="1" src="https://user-images.githubusercontent.com/91623674/202333065-b36fd7ae-d9d8-49c0-97b4-ace8aa956971.png">

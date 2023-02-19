@@ -10,6 +10,6 @@
 - Git
 
 ## Screenshots:
-<img width="1440" alt="1" src="https://user-images.githubusercontent.com/91623674/202333065-b36fd7ae-d9d8-49c0-97b4-ace8aa956971.png">
-<img width="1440" alt="2" src="https://user-images.githubusercontent.com/91623674/202333069-14db50b1-9c1d-44be-92cf-ffaa2b396b3f.png">
-<img width="1440" alt="3" src="https://user-images.githubusercontent.com/91623674/202333080-c9909453-0305-4a4b-9e1d-edc064f8ca09.png">
+<img width="1440" alt="Screenshot 2023-02-18 at 8 16 57 PM" src="https://user-images.githubusercontent.com/91623674/219907015-6d5feb3d-080e-40fc-9dc8-75c7ec65c25f.png">
+<img width="1440" alt="Screenshot 2023-02-18 at 8 18 07 PM" src="https://user-images.githubusercontent.com/91623674/219907016-a9cc008e-c2f5-46ae-8ad1-0e2f4d2e7abd.png">
+<img width="1437" alt="Screenshot 2023-02-18 at 8 20 14 PM" src="https://user-images.githubusercontent.com/91623674/219907018-6df04298-294a-47b7-bd14-d325b4914875.png">
